@@ -4,6 +4,6 @@
 /patches/healed/
 /output/
 .progress.txt
-
+/zig-dev/
 # Leave this in here for older zig versions
 /zig-cache/
